@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TechKnowledge1
-- 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning about Web Development 
-- 💞️ I’m looking to collaborate on Coding and Web Development and even things similar
+- 👀 I’m interested in the Tech Industry 
+- 🌱 I’m currently learning about to take a course by Andrei Neagoie 
+- 💞️ I’m looking to collaborate and talk about the Tech Industry and even things similar
 - 📫 My Twitter is @DeshawDavis2_0
 
 <!---
